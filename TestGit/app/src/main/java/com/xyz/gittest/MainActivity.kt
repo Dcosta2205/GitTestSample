@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //Dummy comment by tj_002
         // tj_001 comment
+        //adasdas
     }
 }
